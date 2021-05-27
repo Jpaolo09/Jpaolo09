@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning backend development
+- 📫 How to reach me:  
+     Email: jp.cortez091@gmail.com  
+     Facebook: https://www.facebook.com/jpaolocortez.09
+     
