@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning backend development
 - 📫 How to reach me:  
      Email: jp.cortez091@gmail.com  
-     Facebook: https://www.facebook.com/jpaolocortez.09
+     Facebook: https://www.facebook.com/jpaolocortez.09  
+     Twitter: https://twitter.com/Jpaolo091
      
