@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
