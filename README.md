@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Personal Information  
+## ✍️ Personal Information  
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning backend development
@@ -23,6 +23,9 @@ Here are some ideas to get you started:
      Facebook: https://www.facebook.com/jpaolocortez.09  
      Twitter: https://twitter.com/Jpaolo091
      
-## Github Stats  
+## 📊 Github Stats  
 [![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpaolo09&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/Jpaolo09/github-readme-stats)
-[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jpaolo09/github-readme-stats)
+[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jpaolo09/github-readme-stats)  
+
+## 🧰 Technologies & Tools
+![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=#777BB4&logoColor=white&color=2bbc8a)
