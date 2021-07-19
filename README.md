@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jpaolo09/github-readme-stats)  
 
 ## 🧰 Technologies & Tools
-![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=#777BB4&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
