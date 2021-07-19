@@ -1,27 +1,21 @@
-### Hi there 👋
-
-<!--
-**Jpaolo09/Jpaolo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## ✍️ Personal Information  
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning backend development
-- 📫 How to reach me:  
-     Email: jp.cortez091@gmail.com  
-     Facebook: https://www.facebook.com/jpaolocortez.09  
-     Twitter: https://twitter.com/Jpaolo091
+
+<!-- Actual text -->
+
+You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/P3YfQoD.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.facebook.com/jpaolocortez.09
+[2]: https://www.linkedin.com/in/jpcortez/
      
 ## 📊 Github Stats  
 [![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpaolo09&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/Jpaolo09/github-readme-stats)
