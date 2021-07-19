@@ -5,7 +5,7 @@
 
 <!-- Actual text -->
 
-/t/t/t/t/tYou can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
+&nbsp;&nbsp;&nbsp;You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
