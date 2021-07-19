@@ -23,5 +23,5 @@ Here are some ideas to get you started:
      Twitter: https://twitter.com/Jpaolo091
      
 ## Github Stats  
-[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpaolo09&theme=tokyonight)](https://github.com/Jpaolo09/github-readme-stats)
-[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09)](https://github.com/Jpaolo09/github-readme-stats)
+[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpaolo09&count_private=true&theme=tokyonight)](https://github.com/Jpaolo09/github-readme-stats)
+[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09&theme=tokyonight)](https://github.com/Jpaolo09/github-readme-stats)
