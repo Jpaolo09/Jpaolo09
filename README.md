@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 
 ## 🧰 Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white&color=2bbc8a)
