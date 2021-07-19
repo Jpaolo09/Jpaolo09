@@ -25,4 +25,4 @@ Here are some ideas to get you started:
      
 ## Github Stats  
 [![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpaolo09&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/Jpaolo09/github-readme-stats)
-[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09&theme=tokyonight&hide_border=true)](https://github.com/Jpaolo09/github-readme-stats)
+[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jpaolo09/github-readme-stats)
