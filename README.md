@@ -23,6 +23,5 @@ Here are some ideas to get you started:
      Twitter: https://twitter.com/Jpaolo091
      
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jpaolo09"/>
+[![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jpaolo09)](https://github.com/Jpaolo09/github-readme-stats)
 
