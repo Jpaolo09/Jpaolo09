@@ -24,4 +24,4 @@ Here are some ideas to get you started:
      
 ## Skills/Languages  
 [![Jpaolo09's github stats](https://github-readme-stats.vercel.app/api?username=Jpaolo09)](https://github.com/Jpaolo09/github-readme-stats)
-[![Jpaolo09's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09&theme=dark)](https://github.com/Jpaolo09/github-readme-stats)
+[![Jpaolo09's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09)](https://github.com/Jpaolo09/github-readme-stats)
