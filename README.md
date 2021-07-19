@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 ## 🧰 Technologies & Tools
 ![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Markup-HTML-blue?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
