@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 [![Jan Paolo Cortez's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jpaolo09/github-readme-stats)  
 
 ## 🧰 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
