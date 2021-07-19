@@ -22,6 +22,8 @@ Here are some ideas to get you started:
      Facebook: https://www.facebook.com/jpaolocortez.09  
      Twitter: https://twitter.com/Jpaolo091
      
-## Skills/Languages  
+## Github Stats  
 [![Jpaolo09's github stats](https://github-readme-stats.vercel.app/api?username=Jpaolo09)](https://github.com/Jpaolo09/github-readme-stats)
 [![Jpaolo09's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpaolo09)](https://github.com/Jpaolo09/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jpaolo09" />
+
