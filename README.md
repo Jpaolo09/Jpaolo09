@@ -7,8 +7,7 @@
 
 <!-- Actual text -->
 
-&nbsp;&nbsp;&nbsp;Let's talk!
- [![Facebook][1.2]][1] [![LinkedIn][2.2]][2]
+&nbsp;&nbsp;&nbsp;Let's talk!   [![Facebook][1.2]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
